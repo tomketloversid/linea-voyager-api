@@ -1,0 +1,15 @@
+{
+    "name": "nft-checker",
+    "version": "1.0.0",
+    "description": "A simple script to check NFT holdings for an address on Linea network",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "ethers": "^6.13.4",
+        "express": "^4.21.1"
+    },
+    "type": "module"
+}
